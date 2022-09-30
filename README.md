@@ -3,7 +3,7 @@
 <h5>Projeto criando um  Dashboard do zero, em um dos cursos que faço de desenvolvimento web, nesse desfio achei um pouco complexo, pois tinha algumas coisas que não conhecia ainda, mas com persistência e muita determinação  consegui finalizar mais um projeto. O grande aprendizado que tomei foi,  devemos moldar cada vez mais nossos conhecimentos, e sempre ter curiosidade, e nunca ter medo de perguntar, quanto mais buscamos conhecimento nunca é demais.</h5>
 
 
-
+LINK: https://painel-administrativo-8hqkfuhoh-gildrodplay.vercel.app
 
 
 https://user-images.githubusercontent.com/67127446/193163296-6d978ed6-e038-4a5f-88f8-d87775addb0f.mp4
