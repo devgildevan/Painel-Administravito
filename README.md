@@ -11,7 +11,6 @@ https://user-images.githubusercontent.com/67127446/193163296-6d978ed6-e038-4a5f-
 //Imagens da landing pages
 
 ![image](https://user-images.githubusercontent.com/67127446/193163445-b5c8fb32-5511-437f-9df2-31219a75dd72.png)
-![image](https://user-images.githubusercontent.com/67127446/193163618-ed4494d4-ea8a-499b-ab60-9b5d0dfd0ed7.png)
 
 
 //Mobile
