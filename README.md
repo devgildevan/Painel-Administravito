@@ -8,20 +8,7 @@
 
 https://user-images.githubusercontent.com/67127446/193163296-6d978ed6-e038-4a5f-88f8-d87775addb0f.mp4
 
-Uploading Responsivo Dashboard HTML CSS and JAVASCRITP - Google Chrome 2022-09-29 21-11-05.mp4…
-
-
 
 ![image](https://user-images.githubusercontent.com/67127446/193163445-b5c8fb32-5511-437f-9df2-31219a75dd72.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/67127446/193163463-c2f26418-cae8-45e8-adc7-3a9e54bfee19.png)
-
-
-
-
-
-
-
-
